@@ -1,4 +1,4 @@
-# Subreddits 👋🏻
+# Custom Subreddit- List for Apollo 👋🏻
 
 ## subreddits.txt ([link](https://zydlar-mods.github.io/subreddits/subreddits.txt))
 List of NSFW subreddits for use with SideStore loaded Apollo for iOS.
